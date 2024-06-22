@@ -1,4 +1,3 @@
-
 # SMS-SPAM-CLASSIFIER
 
 This project is an SMS Spam Classifier that uses machine learning techniques to classify messages as either 'spam' or 'ham' (not spam). The classifier is trained on a labeled dataset of SMS messages and employs natural language processing (NLP) methods to transform text data into features suitable for a machine learning model.
@@ -78,6 +77,16 @@ Contributions are welcome! Please follow these steps to contribute:
 - Make your changes and commit them (git commit -am 'Add new feature').
 - Push to the branch (git push origin feature-branch).
 - Create a new Pull Request.
+  
 ## Screenshots
 
+![image](https://github.com/aakriti562/SMS-SPAM-IDENTIFIER/assets/76481840/900154a8-ff53-4544-b6b9-030330f2bda4)
+
+
+
+![b66e7476-f2cb-47c6-bea9-10e815a894be](https://github.com/aakriti562/SMS-SPAM-IDENTIFIER/assets/76481840/99d3ba1e-a93f-41df-b143-db970f311eec)
+
+## Deployment 
+
+https://huggingface.co/spaces/aakritim/SMS-SPAM-DETECTION
 
